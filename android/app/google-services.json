@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936493135541",
+    "project_id": "chachagolf",
+    "storage_bucket": "chachagolf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936493135541:android:b9b1546742ef56e19230fc",
+        "android_client_info": {
+          "package_name": "com.example.chachagolf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936493135541-5soumrqrb6rm5mpiv29n6t5kuf8ljvlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClanp8FRLwOJUv2pB67f8xLFLPk8_9ZJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936493135541-5soumrqrb6rm5mpiv29n6t5kuf8ljvlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
